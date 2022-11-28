@@ -1,6 +1,6 @@
 <h3 align="center">A passionate frontend developer.</h3>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Blockchain**
 
 - 📫 How to reach me **rukshanlancer@gmail.com**
 
